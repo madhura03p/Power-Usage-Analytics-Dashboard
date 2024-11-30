@@ -84,3 +84,6 @@ The CSV data uploaded by the user undergoes several processing steps:
 - **Backend:** Python
 - **Libraries:** Pandas, NumPy, Statsmodels, Plotly Express
 - **Statistical Modeling:** SARIMA (Seasonal ARIMA) for forecasting
+
+## Alternative Version
+In addition to the primary version of the dashboard described above, there is an alternative version of the app tailored for scenarios requiring a simpler data pipeline. This version is designed to work with a dataset that has a more straightforward structure, eliminating the need for extensive unpivoting and data transformation.
